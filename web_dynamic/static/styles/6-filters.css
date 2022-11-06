@@ -101,3 +101,12 @@ button:hover {
 .locations:hover .popover {
     visibility: visible;
 }
+.popover ul li h2 {
+    display: inline;
+}
+
+.popover ul li ul li {
+    display: flex;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+}
